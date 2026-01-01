@@ -33,29 +33,19 @@ This project implements a **deep learning model** to detect **pneumonia from che
 
 ---
 
-
 ## 💻 Usage
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/AI-projects.git
+git clone [https://github.com/Taseer09/AI-projects.git](https://github.com/Taseer09/AI-projects.git)
 cd AI-projects/Pneumonia-Detection
 
 pip install -r requirements.txt
-``` 
+```
 
-## 📈 Results
-
+📈 Results
 Training Accuracy: 97%
 Validation Accuracy: 94%
 Confusion matrix and ROC curve generated in notebooks/
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/taseer-mehboob/](https://www.linkedin.com/in/taseer-mehboob/)">
-    <img src="[https://img.shields.io/badge/LinkedIn-Taseer%20Mehboob-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Taseer%20Mehboob-blue?style=for-the-badge&logo=linkedin)" />
-  </a>
-  <a href="[https://github.com/Taseer09](https://github.com/Taseer09)">
-    <img src="[https://img.shields.io/badge/GitHub-AI%20Projects-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-AI%20Projects-black?style=for-the-badge&logo=github)" />
-  </a>
-</p>
+🌐 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/taseer-mehboob/"> <img src="https://img.shields.io/badge/LinkedIn-Taseer%20Mehboob-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/Taseer09"> <img src="https://img.shields.io/badge/GitHub-AI%20Projects-black?style=for-the-badge&logo=github" /> </a> </p>
