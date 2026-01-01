@@ -45,11 +45,6 @@ pip install -r requirements.txt
 📈 Results
 
 Training Accuracy: 97%
-
 Validation Accuracy: 94%
-
 Confusion matrix and ROC curve generated in notebooks/
 
-
-🤝 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/taseer-mehboob/"> <img src="https://img.shields.io/badge/LinkedIn-Taseer%20Mehboob-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-AI%20Projects-black?style=for-the-badge&logo=github"> </a> </p> ```
